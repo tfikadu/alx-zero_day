@@ -1,2 +1,2 @@
-My first readme know updated
+My first readme
 This is my time. I can win
